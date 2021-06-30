@@ -1,23 +1,4 @@
-/* =================================================================== 
- *
- *  Glint v1.0 Vendor/Third Party CSS 
- *  11-20-2017
- *  ------------------------------------------------------------------
- *
- *  TOC:
- *  # animate on scroll
- *  # slick slider
- *  # photoswipe
- *  # photoSwipe skin
- *
- * =================================================================== */
 
-
-/* ===================================================================
- * # animate on scroll 
- * https://michalsnik.github.io/aos/
- *
- * ------------------------------------------------------------------- */
 [data-aos][data-aos][data-aos-duration='50'], body[data-aos-duration='50'] [data-aos] {
     transition-duration: 50ms;
 }
@@ -1085,11 +1066,11 @@
 
 /* ===================================================================
  * # photoswipe
- *   PhotoSwipe main CSS by Dmitry Semenov 
+ *   PhotoSwipe main CSS by Dmitry Semenov
  *   photoswipe.com | MIT license
  *
  * ------------------------------------------------------------------- */
-/*! 
+/*!
   # photoswipe
   PhotoSwipe main CSS by Dmitry Semenov | photoswipe.com | MIT license */
 
@@ -1369,9 +1350,9 @@
 }
 
 
-/* 
-pswp__ui--over-close class it added when mouse is 
-over element that should close gallery 
+/*
+pswp__ui--over-close class it added when mouse is
+over element that should close gallery
 */
 
 .pswp__ui--over-close .pswp__button--close {
@@ -1733,8 +1714,8 @@ a.pswp__share--download:hover {
 }
 
 .pswp--css_animation .pswp__preloader__cut {
-    /* 
-			The idea of animating inner circle is based on Polymer ("material") loading indicator 
+    /*
+			The idea of animating inner circle is based on Polymer ("material") loading indicator
 			 by Keanu Lee https://blog.keanulee.com/2014/10/20/the-tale-of-three-spinners.html
 		*/
     position: relative;
@@ -1913,6 +1894,3 @@ a.pswp__share--download:hover {
 .pswp--minimal--dark .pswp__top-bar {
     background: none;
 }
-
-
-/*# sourceMappingURL=vendor.css.map */
