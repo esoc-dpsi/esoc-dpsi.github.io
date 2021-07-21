@@ -3323,9 +3323,9 @@ footer .row {
     padding: 0;
     outline: 0;
     border: none;
-    width: 85px;
-    height: 28px;
-    background: url("../images/logo-footer.jpeg") no-repeat center;
+    width: 0px;
+    height: 70px;
+    background: url("../images/logo-footer.jpg") no-repeat center;
     background-size: 75px 100px;
     font: 0/0 a;
     text-shadow: none;
