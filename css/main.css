@@ -2675,6 +2675,7 @@ html.no-csstransitions .home-content__main {
     background-color: #e6e6e6;
     color: #757575;
     position: relative;
+
 }
 
 
@@ -2690,10 +2691,11 @@ html.no-csstransitions .home-content__main {
 
 .clients__slide {
     display: block;
-    opacity: .55;
+    opacity: .75;
     padding: 1.5rem 2.8rem;
     -webkit-transition: opacity 0.5s ease-in-out;
     transition: opacity 0.5s ease-in-out;
+    font-family: "lora-regular", serif;
 }
 
 .clients__slide:hover, .clients__slide:focus {
